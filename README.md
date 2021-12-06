@@ -1,7 +1,8 @@
-# horiseon_homework_uwa
-This is the CODE REFACTOR from bootcamp in UWA
+# code_refactor__uwa
 
-URL of github repository https://github.com/kishan254/horiseon_homework_uwa.git
+This is the CODE REFACTOR Assignment from bootcamp in UWA
+
+URL of github repository https://github.com/kishan254/code_refactor_uwa.git
 
 URL of Deployed application https://kishan254.github.io/horiseon_homework_uwa/
 
