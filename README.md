@@ -4,7 +4,7 @@ This is the CODE REFACTOR Assignment from bootcamp in UWA
 
 URL of github repository https://github.com/kishan254/code_refactor_uwa.git
 
-URL of Deployed application https://kishan254.github.io/horiseon_homework_uwa/
+URL of Deployed application https://kishan254.github.io/code_refactor_uwa/
 
 Decription of assignment
 
